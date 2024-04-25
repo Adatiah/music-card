@@ -1,0 +1,78 @@
+body {
+    background-color: azure;
+    font-family: system-ui, -apple-system;
+
+    
+    
+}
+.top {
+    background-size: cover;
+    padding-bottom: 5%;
+    
+
+  }
+img {
+    border-top-left-radius: 5%;
+    border-top-right-radius: 5%;
+
+}
+
+.container {
+ background-color: #ffffff;
+ display: flex;
+ align-items: center;
+ justify-content: center;
+ width: 410px;
+ border-radius: 5%;
+ margin: auto;
+ text-align: center;
+ margin-top: 50px;
+ margin-bottom: 50px;
+}
+.music {
+    width: 40px;
+    height: 40px;
+    background-color: aliceblue;
+    border-radius: 50%;
+    display: flex;
+    align-items: center;
+    margin-right: 25px;
+
+  
+}
+.icon {
+    width: 20px;
+    height: 20px;
+    margin: auto;
+}
+.plan {
+    background-color: grey;
+    display: flex;
+    justify-content: space-around;
+    margin: 0px 10px;
+    align-items: center;
+    width: 90%;
+    border-radius: 5%;
+}
+p {
+    padding-left: 30px;
+    padding-right: 30px;
+}
+.annual {
+    display: flex;
+    align-items: center;
+    justify-content: space-around;
+}
+    
+
+button {
+   background-color: blue;
+   width: 90%;
+   height: 40%;
+   border-radius: 5%;
+}
+
+    
+
+
+
